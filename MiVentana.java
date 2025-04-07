@@ -11,6 +11,7 @@ public class MiVentana {
 
 
   //hola como estas, yeah
+  //perroooooo
   JFrame ventana = new JFrame();
 
   JLabel texto1 = new JLabel("Hola xD!");
