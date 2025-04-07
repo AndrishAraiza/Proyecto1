@@ -8,6 +8,9 @@ public class MiVentana {
 
  public void showVentana(){
   
+
+
+  //hola como estas, yeah
   JFrame ventana = new JFrame();
 
   JLabel texto1 = new JLabel("Hola xD!");
